@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif ;
+}
+
+
+
+
+.callout-container{
+
+background: url("../images/whisky.jpg") no-repeat bottom right fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+  
+.jumbotron{
+    background-color: transparent;
+}
+
+.jumbotron-header{
+    color: white;
+}
+
+.lead{
+    color: white;
+}
